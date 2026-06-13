@@ -91,8 +91,8 @@
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Featured Project
 
 <div align="center">
-  <a href="https://github.com/manuiitj/TokenAwareSQLiScanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuiitj&repo=TokenAwareSQLiScanner&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <a href="https://github.com/manuiitj/Token-Aware-Mini-SQLi-Scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuiitj&repo=Token-Aware-Mini-SQLi-Scanner&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
   </a>
 </div>
 
