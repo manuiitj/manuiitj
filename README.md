@@ -110,7 +110,7 @@
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manuiitj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manuiitj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuiitj&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8"/>
 </p>
 
