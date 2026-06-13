@@ -40,7 +40,7 @@
 
 ### 🚀 Featured Project
 
-**[TokenAwareSQLiScanner](https://github.com/YOUR_USERNAME/TokenAwareSQLiScanner)**
+**[TokenAwareSQLiScanner](https://github.com/manuiitj/TokenAwareSQLiScanner)**
 > AI-powered SQL Injection scanner with token-aware form submission, risk scoring,
 > dynamic AI conclusions, and a Flask web dashboard. Built with Python, BeautifulSoup4 & Flask.
 
@@ -49,16 +49,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manuiitj&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuiitj&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuiitj&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=534AB7&style=flat&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=manuiitj&color=534AB7&style=flat&label=Profile+Views"/>
 </p>
