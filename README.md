@@ -4,7 +4,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://github.com/manuiitj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;Python+%26+Flask+Developer+%F0%9F%90%8D;Web+Application+Security+Enthusiast+%F0%9F%94%90;Ethical+Hacking+%26+Secure+Coding+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;Python+%26+Flask+Developer+%F0%9F%90%8D;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,9 +15,6 @@
   </a>&nbsp;
   <a href="mailto:manu.singh.cms12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>&nbsp;
   <a href="https://github.com/manuiitj">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
