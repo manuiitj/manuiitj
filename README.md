@@ -4,7 +4,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://github.com/manuiitj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;Python+%26+Flask+Developer+%F0%9F%90%8D;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,10 +36,6 @@
 
 - 🔭 &nbsp;Building **AI-powered web security tools** — SQLi scanner & vulnerability detection
 - 🎓 &nbsp;**M.Tech graduate** from **IIT Jodhpur**
-- 🛡️ &nbsp;Focused on **web application security**, ethical hacking & secure coding
-- 💬 &nbsp;Ask me about **Python, Flask, SQL Injection, or security automation**
-- 📫 &nbsp;Open to **full-time roles**, research & open-source collaboration
-- ⚡ &nbsp;Fun fact: *I think every input field is guilty until proven sanitized*
 
 <br/><br/><br/>
 
