@@ -1,5 +1,5 @@
 <!-- ===== ANIMATED HEADER BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:00C9A7&height=200&section=header&text=Manu%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20Python%20Developer%20%7C%20M.Tech%20IIT%20Jodhpur&descSize=18&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:00C9A7&height=200&section=header&text=Manu%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.Tech%20IIT%20Jodhpur&descSize=18&descAlignY=58"/>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
